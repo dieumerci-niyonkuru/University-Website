@@ -15,8 +15,9 @@
     list-style: none;
     float: left;
     color: white;
-    padding: 4%;
+    padding: 2%;
     font-size: 21px;
+    
     
 }
 
@@ -54,8 +55,8 @@
     color: black;
     font-size: 12px;
     background-color: white;
-    border-left: 1px solid #c1cddd;
-    /* height: px; */
+    border-left: 1px solid #677586;
+    
     
     
 }
@@ -132,7 +133,8 @@
     padding-left: 50px;
     padding-top: 5%;
 }
-.lwomen{
+.lwomen
+{
     margin-left: 630px;
     margin-top: -580px;
     padding-top: 3%;
@@ -140,7 +142,8 @@
 
 }
 
-.lwomen p{
+.lwomen p
+{
     color: #0c2340;
     font-family: "Lora",serif;
     font-size: 30px;
@@ -150,18 +153,21 @@
     
     
 }
-.lwomen span{
+.lwomen span
+{
     color: #0c2340;
     font-family: "Nunito Sans", sans-serif;
     font-size: 20px;
     font-weight: lighter;
    
 }
-.lwomen .res{
+.lwomen .res
+{
     padding: 5%;
 }
 
-.res:hover{
+.res:hover
+{
     background-color: #edf2f9;
     border-bottom:3px solid #c1cddd;
 }
@@ -302,3 +308,35 @@ hr{
 .sendo .gooodsone h1{ font-size: 40px;color: white; margin-left: 50px;}
 .sendo .gooodsone p{ font-size: 40px; margin-top: 40px; color: white;margin-left: 50px}
 .sendo .gooodsone span{ font-size: 40px; margin-top: 40px; color: white;margin-left: 50px}
+.thr .gooodss h1{
+    background-color:white;
+    margin-top: -10px;
+    font-size: 70px;
+    margin-left: 50px;
+    
+}
+.pixels img{
+    width: 700px;
+}
+.thr{
+    background-color: white;
+   
+}
+
+.thr img{
+    background-color: white;
+   background-color: white;
+   ma
+}
+.thr .gooodss p{
+    background-color:white;
+    margin-top: -10px;
+    font-size: 30px;
+    margin-left: 60px;
+    
+}
+.thr .gooodss img{
+ 
+    margin-left: 60px;
+    
+}
