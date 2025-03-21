@@ -292,5 +292,8 @@ hr{
 .nblue .c img{
     margin-top: 40px;
     width: 45%; 
-    
+}
+.nblueee img{
+    width: 700px;
+    margin-left: 700px;
 }
