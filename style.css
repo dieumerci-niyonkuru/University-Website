@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.basicmenu{
+    background-color: #0c2340;
+    width: auto;
+    height: 150px;
+    border-top:5px solid #ae9142 ;
+    border-bottom: 5px solid #081629;
+}
+.ul li{
+    list-style: none;
+    float: left;
+    color: white;
+    padding: 4%;
+    font-size: 21px;
+    
+}
+
+.ul li:hover{
+    background-color: #143865;
+    border-radius: 5px;
+    
+}
+.ul {
+    margin-left: 1000px;
+    margin-top: -112px;
+}
+.logo{
+    width: 310px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+
+.ol li{
+    list-style: none;
+    float: left;
+    color: black;
+    padding: 24px 20px;
+    height: 14px;
+    font-size: 20px;
+    background-color: white;
+    
+}
+
+.search{
+    list-style: none;
+    float: left;
+    color: black;
+    font-size: 12px;
+    background-color: white;
+    border-left: 1px solid #c1cddd;
+    /* height: px; */
+    
+    
+}
+
+.ol li:hover{
+    background-color: #edf2f9;
+    border-bottom:3px solid #c1cddd;
+    
+}
+.menu{
+    margin-top: -52px;
+    margin-left: 660px;
+    
+    
+    
+
+}
+.announc{
+    width: auto;
+    height: 100%;
+    margin-top: 50px;
+    background-image: url('feature-bg-1600.jpg');
+    background-size: cover;
+    margin: 0%;
+    padding-bottom: 5%;
+    
+}
+.announc p{
+    color: #0c2340;
+    font-family: "Oswald", sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    width: 30%;
+    padding-left: 50px;
+    margin-top: 30px;
+   
+   
+}
+.announc span, .women span{
+    color: #0c2340;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    padding-left: 50px;
+    padding-top: 5%;
+}
+.leader img{
+    width: 62%;
+    height: 580px;
+    margin-left: 600px;
+    margin-top: -563px;
+}
+.women img{
+    width: 35%;
+    height: 40%;
+}
+
+.women{
+    padding-bottom:9% ;
+}
+.women p{
+    color: #0c2340;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Lora", serif;
+    padding-left: 3%;
+}
+
+.women span{
+    color: #0c2340;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    padding-left: 50px;
+    padding-top: 5%;
+}
+.lwomen{
+    margin-left: 630px;
+    margin-top: -580px;
+    padding-top: 3%;
+
+
+}
+
+.lwomen p{
+    color: #0c2340;
+    font-family: "Lora",serif;
+    font-size: 30px;
+    font-weight: bold;
+    
+
+    
+    
+}
+.lwomen span{
+    color: #0c2340;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+   
+}
+.lwomen .res{
+    padding: 5%;
+}
+
+.res:hover{
+    background-color: #edf2f9;
+    border-bottom:3px solid #c1cddd;
+}
+.nblue{
+    width: auto;
+    background-color: #0c2340;
+    margin-top: 90px;
+    
+}
+.nblue .lp span{
+    color: #edf2f9;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.nblue .lp h1{
+    color: #edf2f9;
+    font-size: 30px;
+    font-family: "Oswald", sans-serif;
+   
+}
+
+.nblue .lp p{
+    color: #edf2f9;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+}
+
+.a .gooods{
+    margin-left: 55%;
+    width: 40%;
+    margin-top: -300px;
+}
+.b .gooods{
+    padding-left: 5%;
+}
+.c .gooods{
+    margin-left: 55%;
+    width: 40%;
+    margin-top: -600px;
+    padding-bottom: 10%;
+    color: white;
+}
+
+hr{
+    height: 5px;
+    width: 70px;
+    background-color: #ae9142 ;
+    border: none;
+}
+.nblue .a  img{
+    margin-top: -32px;
+}
+
+
+
+.b{
+    margin-top: 170px;
+}
+.c{
+    margin-top: 170px;
+}
+.b .gooods{
+    width: 40%;
+    margin-top: -300px;
+}
+
+hr{
+    height: 5px;
+    width: 70px;
+    background-color: #ae9142 ;
+    border: none;
+}
+.nblue .b  img{
+    margin-left: 55%;
+    width: 45%; 
+    
+}
+
+.nblue .c img{
+    margin-top: 40px;
+    width: 45%; 
+    
+}
+
+.news span{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+}
+.news{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 100px;
+    padding-left: 5%;
+}
+
+.news .im{
+    width: 50%;
+
+}
+.lefts{
+   background-color: #eaedf1;
+   margin-left: 850px; 
+}
+.lefts span{
+    margin-top: 60px;
+}
+
+.lefts p{
+    margin-top: 80px;
+}
+.a img{width: 700px;}
+.gooods{
+    font-size: 40px;
+    
+}
+.c img{
+    height: 50px;
+}
+.nblue .b  img{
+    margin-left: 55%;
+    width: 45%; 
+    
+}
+
+.nblue .c img{
+    margin-top: 40px;
+    width: 45%; 
+    
+}
