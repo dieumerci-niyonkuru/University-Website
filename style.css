@@ -303,7 +303,7 @@ hr{
 .nblueee img{
     width: 700px;
     margin-left: 800px;
-    margin-top: -457px;
+    margin-top: -857px;
 }
 .sendo .gooodsone h1{ font-size: 40px;color: white; margin-left: 50px;}
 .sendo .gooodsone p{ font-size: 40px; margin-top: 40px; color: white;margin-left: 50px}
@@ -339,4 +339,13 @@ hr{
  
     margin-left: 60px;
     
+}
+.slide p{
+    margin-left: 700px;
+    margin-top: -420px;
+    font-size: 60px;
+    background-color: rgb(204, 189, 189);
+    text-align: right;
+    height: 420px;
+    width: 800px;
 }
