@@ -234,6 +234,7 @@ hr{
     width: 70px;
     background-color: #ae9142 ;
     border: none;
+    margin-left: 50px;
 }
 .nblue .b  img{
     margin-left: 55%;
@@ -295,5 +296,9 @@ hr{
 }
 .nblueee img{
     width: 700px;
-    margin-left: 700px;
+    margin-left: 800px;
+    margin-top: -457px;
 }
+.sendo .gooodsone h1{ font-size: 40px;color: white; margin-left: 50px;}
+.sendo .gooodsone p{ font-size: 40px; margin-top: 40px; color: white;margin-left: 50px}
+.sendo .gooodsone span{ font-size: 40px; margin-top: 40px; color: white;margin-left: 50px}
